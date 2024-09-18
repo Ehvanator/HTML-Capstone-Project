@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> My Resume </title>
+</head>
+
+<body>
+<h1>Evan's Hobbies</h1>
+<hr/>
+<h2>Hobbies</h2>
+<ul>
+    <li>Coding</li>
+    <li>Reading Historical Fiction</li>
+    <li>Warhammer 40k</li>
+    <li>Learning new things</li>
+</ul>
+
+
+</body>
+
+
+
+
+</html>

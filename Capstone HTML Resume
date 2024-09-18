@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> My Resume </title>
+</head>
+
+<body>
+<h1>Evan's Resume</h1>
+<hr/>
+<h2>Summary</h2>
+<ul>An ex management consultant that is current working in telecommunication infrastructure. 
+    <br>
+    Functional expertise resides in strategy and operations</ul>
+<hr/>
+
+<h2>Education</h2>
+<ul>
+    <li>BA Philosophy, Politics, and Economics 
+        <br>
+        <b>University of Oxford</b>
+    </li>
+    <li>A Levels 
+    <br>
+    <b>King's Canterbury</b>
+    </li>
+    <li>IGCSEs 
+    <br>
+    <b>Garden International School</b>
+    </li>
+</ul>
+<hr/>
+
+
+<h2>Work Experience</h2>
+<ul>
+    <li>General Manager 
+        <br>
+        <b>Digital Nasional Berhad</b>
+    </li>
+    <li>Principal 
+    <br>
+    <b>Stonewater Partners / Kaiser Associates</b>
+    </li>
+    <li>Summer Investment Banking Intern 
+    <br>
+    <b>Maybank Investment Bank</b>
+    </li>
+</ul>
+<hr/>
+<h2>Skills</h2>
+<ul>
+    <li>Microsoft Office</li>
+    <li>HTML</li>
+    <li>Figma</li>
+    <li>Visio</li>
+    <li>Flutter</li>
+</ul>
+
+<hr/>
+
+<a href="Evan's Hobbies">My Hobbies</a> <a href="Contact">My Contact</a>
+
+</body>
+
+
+
+
+</html>
